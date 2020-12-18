@@ -1,0 +1,2 @@
+class cube(object):
+    pass
